@@ -1,2 +1,2 @@
 # ImageProcessing
-This include projects that demonstrates my image processing skills
+This include various projects that demonstrate my image processing skills.
